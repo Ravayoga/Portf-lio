@@ -1,4 +1,3 @@
-/*Cabeçalho*/
 header{
     display: flex;
     background-color: #000000;
@@ -61,8 +60,6 @@ body{
     color: rgb(0, 0, 0);
 }
 
-
-/*Seções*/
 section{
     background-color: #ffffff;
     padding: 20px;
@@ -89,7 +86,7 @@ a{
 a:hoover{
     color: rgb(239, 80, 80);
 }
-/*Rodapé*/
+
 footer {
     background-color: #000000;
     text-align: center;
@@ -99,7 +96,6 @@ footer {
     color: #ffffff;
 }
 
-/*Responsividade*/
 @media screen and (max-width: 830px) {
     body{
         font-size: small;
