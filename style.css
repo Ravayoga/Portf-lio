@@ -86,7 +86,9 @@ a{
     text-decoration: none;
 }
 
-
+a:hoover{
+    color: rgb(239, 80, 80);
+}
 /*Rodapé*/
 footer {
     background-color: #000000;
